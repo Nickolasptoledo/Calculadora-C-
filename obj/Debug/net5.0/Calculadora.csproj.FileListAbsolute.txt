@@ -1,0 +1,16 @@
+D:\1.PROGRAMAÇÃO\c#\Calculadora\bin\Debug\net5.0\Calculadora.exe
+D:\1.PROGRAMAÇÃO\c#\Calculadora\bin\Debug\net5.0\Calculadora.deps.json
+D:\1.PROGRAMAÇÃO\c#\Calculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.json
+D:\1.PROGRAMAÇÃO\c#\Calculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.dev.json
+D:\1.PROGRAMAÇÃO\c#\Calculadora\bin\Debug\net5.0\Calculadora.dll
+D:\1.PROGRAMAÇÃO\c#\Calculadora\bin\Debug\net5.0\Calculadora.pdb
+D:\1.PROGRAMAÇÃO\c#\Calculadora\obj\Debug\net5.0\Calculadora.csproj.AssemblyReference.cache
+D:\1.PROGRAMAÇÃO\c#\Calculadora\obj\Debug\net5.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.PROGRAMAÇÃO\c#\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfoInputs.cache
+D:\1.PROGRAMAÇÃO\c#\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfo.cs
+D:\1.PROGRAMAÇÃO\c#\Calculadora\obj\Debug\net5.0\Calculadora.csproj.CoreCompileInputs.cache
+D:\1.PROGRAMAÇÃO\c#\Calculadora\obj\Debug\net5.0\Calculadora.dll
+D:\1.PROGRAMAÇÃO\c#\Calculadora\obj\Debug\net5.0\refint\Calculadora.dll
+D:\1.PROGRAMAÇÃO\c#\Calculadora\obj\Debug\net5.0\Calculadora.pdb
+D:\1.PROGRAMAÇÃO\c#\Calculadora\obj\Debug\net5.0\Calculadora.genruntimeconfig.cache
+D:\1.PROGRAMAÇÃO\c#\Calculadora\obj\Debug\net5.0\ref\Calculadora.dll
